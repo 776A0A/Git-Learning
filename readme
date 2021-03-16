@@ -3,3 +3,4 @@
 ## Add some git commands
 
 - git add -u
+- git branch -v
