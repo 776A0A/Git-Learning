@@ -4,3 +4,4 @@
 
 - git add -u
 - git branch -v
+- git remote -v
